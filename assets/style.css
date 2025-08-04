@@ -797,6 +797,10 @@ section.visible {
     margin-bottom: 30px;
   }
 
+  .home-text h1 {
+    margin-top: 100px;
+  }
+
   .about-content {
     flex-direction: column;
   }
