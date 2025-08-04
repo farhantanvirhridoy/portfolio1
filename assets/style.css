@@ -787,6 +787,10 @@ section.visible {
     padding-right: 0 !important;
     text-align: left !important;
   }
+  .timeline-item:nth-child(even)
+  {
+    left: 0px;
+  }
 
   .timeline-item::before {
     left: 20px !important;
